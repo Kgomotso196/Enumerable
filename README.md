@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><b>📖 Decode Morse Code </b></h3>
+  <h3><b>📖Enumerable</b></h3>
 
 </div>
 
@@ -25,11 +25,9 @@
 - [📝 License](#license)
 
 
-# 📖📖 Decode Morse Code  <a name="about-project"></a>
+# 📖 Enumerable <a name="about-project"></a>
 
-**This project employs the Ruby programming language to proficiently decode Morse code, showcasing the language's expertise in handling complex tasks of symbol translation.**
-
-
+**Enumerable** is a product of my local environment that allows for the implementation of various iterative methods, enabling the manipulation and traversal of data collections within the class.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -84,10 +82,10 @@ Clone this repository to your desired folder:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Kgomotso196/Decode-Morse-Message.git
+$ git clone https://github.com/Kgomotso196/Enumerable.git
 
 # Go into the repository
-$ cd Decode-Morse-Message
+$ cd Enumerable
 
 # Install dependencies
 $ bundle install
@@ -131,7 +129,7 @@ After you clone this repo to your desktop and install the dependencies, go to it
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Kgomotso196/Decode-Morse-Message/issues).
+Feel free to check the [issues page](https://github.com/Kgomotso196/Enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,7 +165,7 @@ We would like to thank Microverse for proposing this project, and extend our hea
 
 ## 📝 License <a name="license"></a>
 
- This project is [MIT](./MIT.md) licensed. 
+ This project is [MIT](./MIT.md) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
