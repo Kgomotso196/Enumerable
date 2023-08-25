@@ -1,11 +1,8 @@
 <a name="readme-top"></a>
 
-
 <div align="center">
-  <h3><b>📖 Decode Morse Code </b></h3>
-
+  <h3><b>ENUMERABLE</b></h3>
 </div>
-
 
 # 📗 Table of Contents
 
@@ -24,12 +21,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
+# 📖 Enumerable <a name="about-project"></a>
 
-# 📖📖 Decode Morse Code  <a name="about-project"></a>
-
-**This project employs the Ruby programming language to proficiently decode Morse code, showcasing the language's expertise in handling complex tasks of symbol translation.**
-
-
+**Enumerable** is a product of my local environment that allows for the implementation of various iterative methods, enabling the manipulation and traversal of data collections within the class.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,14 +34,11 @@ The various stacks used for the project includes the following
   <summary>Ruby</summary>
 </details>
 
-
-
 ### Key Features <a name="key-features"></a>
 
 - **Run a program using the command line.**
 - **Use Ruby syntax for basic programming operations.**
 - **Use Ruby to solve basic coding challenges.**
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,36 +68,30 @@ On Windows, by using [chocolatey](https://chocolatey.org) you can install.
 C:\> choco install ruby
 ```
 
-
 ### Setup
 
 Clone this repository to your desired folder:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Kgomotso196/Decode-Morse-Message.git
+$ git clone https://github.com/Kgomotso196/Enumerable.git
 
 # Go into the repository
-$ cd Decode-Morse-Message
+$ cd Enumerable
 
 # Install dependencies
 $ bundle install
-
 ```
 
 ### Usage
 
-After you clone this repo to your desktop and install the dependencies, go to its root directory and run `ruby decode_morse_code.rb` to run the application.
-
-
+After you clone this repo to your desktop and install the dependencies, go to its root directory and run `ruby my_list.rb` to run the application.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 👥 Authors <a name="authors"></a>
 
-
-👤 **Author**
+👤 **Adeyemi Dada**
 
 - GitHub: [@yemidada](https://github.com/yemidada)
 - Twitter: [@nairareport](https://twitter.com/nairareport)
@@ -119,22 +104,19 @@ After you clone this repo to your desktop and install the dependencies, go to it
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Add more features**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Kgomotso196/Decode-Morse-Message/issues).
+Feel free to check the [issues page](https://github.com/Kgomotso196/Enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -142,17 +124,13 @@ If you like this project, we kindly request you to show your support by giving i
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 We would like to thank Microverse for proposing this project, and extend our heartfelt thanks to our fellow programmers for their assistance whenever possible.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## ❓ FAQ <a name="faq"></a>
-
 
 - **Do you need ruby installed on your machine**
 
@@ -164,10 +142,8 @@ We would like to thank Microverse for proposing this project, and extend our hea
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 📝 License <a name="license"></a>
 
- This project is [MIT](./MIT.md) licensed. 
-
+ This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
